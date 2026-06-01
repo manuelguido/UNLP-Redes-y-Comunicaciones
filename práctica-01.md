@@ -49,7 +49,11 @@ Las RFCs (Request for Comments) son documentos técnicos que describen métodos,
 
 ## 4. ¿Qué es un protocolo?
 
-Un protocolo es un conjunto de reglas y estándares que definen cómo los dispositivos de red se comunican entre sí. Especifica el formato, la sincronización, la secuenciación y el control de errores en el intercambio de datos.
+Un **protocolo** es el conjunto de conductas y normas a conocer, respetar y cumplir no sólo en el medio oficial ya establecido, sino también en el medio social, laboral, etc.
+
+Un protocolo define el formato, el orden de los mensajes intercambiados y las acciones que se llevan a cabo en la transmisión y/o recepción de un mensaje u otro evento.
+
+Un **protocolo de red** es un conjunto de reglas que especifican el intercambio de datos u órdenes durante la comunicación entre las entidades que forman parte de una red. Permiten la comunicación y están implementados en las componentes.
 
 **Elementos que define un protocolo:**
 
